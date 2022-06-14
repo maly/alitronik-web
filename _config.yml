@@ -1,4 +1,4 @@
-url: https://alitronik.com
+url: https://ali.retronic.us
 name: Alitronik
 description: >
   Curated list of cool Aliexpress
@@ -8,7 +8,6 @@ description: >
 logo: # 120x120 px default image used for Twitter summary card
 teaser: # 400x250 px default teaser image used in image archive grid
 locale: en
-url:
 feed:
   path: atom.xml
 
